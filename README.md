@@ -1,50 +1,70 @@
-# Welcome to your Expo app 👋
+# One App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+The idea is to create a productivity app for Android and iOS that's free, open sourced and which allows to organise routines and tasks as easy and customizable as possible.
+Productivity apps in my opinion are usually expensive, non user-friendly, lack features or all of the above. I have yet to find one that suits my needs and expectations so I'm basically creating the productivity app I've always been looking for. Hopefully it'll be apealing to other people as well.
 
-## Get started
+## Feature ideas
+_(in progress)_
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Categories
+   - Defaults: study, work, sport, productivity, quit bad habit, well being, mindfulness
+   - Custom tags
+- Items
+   - Tasks
+      - Subtasks
+      - Recurring tasks
+   - Lists
+      - Groceries
+      - To-dos
+      - Daily To-do
+   - Reminders
+      - Examples: drink, move every hour
+   - Habits
+      - Positive (ex: eat healthy breakfast)
+      - Negative (ex: order junk food)
+      - Positive/Negative (ex: healthy VS junk food)
+   - Routines
+      - Play mode
+   - Goals & milestones
+   - Journal
+      - Rate day
+      - Add an emoji and/or word to summarize
+   - Mood tracker
+   - Notes
+   - Recipes
+      - Extract from URL
+      - Store by categories: pastries, asian food, ...
+      - Search by ingredient
+      - Add ingredients to grocery list
+   - Workouts
+      - Weights, sets and reps
+      - Circuit training
+      - Video to visualize exercise
+   - Leitner box
+      - In-app cards or only box handling
+   - Timer
+   - Time tracker
+   - Podomoro
+   - Counter
+   - Data tracker (ex: weight)
+   - Options:
+      - Notification/alarm/reminder (with snooze option)
+      - Link with other types of items
+      - Condition to be successful: minimum time, complete 80% of subtasks, counter threshold, ...
+      - Toggle display in overview
+      - Toggle quick access
+      - Disable item temporarily (ex: vacation, event)
+      - Energy monitor (each task takes energy from daily supply, this features helps not to schedule too many tasks)
+- Stats/progress
+   - Gamify by gaining levels
+   - Streaks for recurring tasks/habits/routines
+   - Calendar/chart display
+- Settings
+   - Account
+   - Page to open on loading
+   - Items to create quick access to
+   - Theme
+   - First day of the week
+   - Language
+   - Backup
+   - Feedbacks and access to github
