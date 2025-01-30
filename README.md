@@ -68,3 +68,13 @@ _(in progress)_
    - Language
    - Backup
    - Feedbacks and access to github
+
+## Design
+_(in progress)_
+
+[Link to Figma](https://www.figma.com/design/kCTmEuWHd57OGtcUEFoV8G/One-App?node-id=0-1&t=JEIq15EJtIQUBltZ-1)
+
+## Database
+_(in progress)_
+
+[Link to QuickDBD](https://app.quickdatabasediagrams.com/#/d/okLWL1)
